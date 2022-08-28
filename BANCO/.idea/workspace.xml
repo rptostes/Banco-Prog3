@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9be0b51d-f24e-471a-84c5-af641f2b1726" name="Changes" comment="Diagrama" />
+    <list default="true" id="9be0b51d-f24e-471a-84c5-af641f2b1726" name="Changes" comment="Diagrama alterado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661659505120</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Diagrama alterado">
+      <created>1661659559835</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661659559835</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +237,8 @@
     <MESSAGE value="Teste classe Retangulo" />
     <MESSAGE value="Finalizado aula 24/08" />
     <MESSAGE value="Diagrama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Diagrama" />
+    <MESSAGE value="Diagrama alterado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diagrama alterado" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
