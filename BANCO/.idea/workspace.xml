@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9be0b51d-f24e-471a-84c5-af641f2b1726" name="Changes" comment="Teste classe Retangulo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DVU34D5QLOqM3rHWaZLyrxubDU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Davi/Desktop/ProgIII&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.edu.femass.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ContaTest">
+    <configuration name="ContaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.teste.ContaTest" />
+      <module name="banco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.femass.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PontoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geometria_prog3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.femass.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.edu.femass.model" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.PontoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PontoTest.getlocalizacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geometria_prog3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.femass.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.edu.femass.model" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.PontoTest" />
+      <option name="METHOD_NAME" value="getlocalizacao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geometria_prog3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.femass.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.edu.femass.model" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.QuadTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetanguloTest.getPerimetro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geometria_prog3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.femass.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.edu.femass.model" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.RetanguloTest" />
+      <option name="METHOD_NAME" value="getPerimetro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContaTest" />
+        <item itemvalue="JUnit.QuadTest" />
+        <item itemvalue="JUnit.PontoTest.getlocalizacao" />
+        <item itemvalue="JUnit.PontoTest" />
+        <item itemvalue="JUnit.RetanguloTest.getPerimetro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9be0b51d-f24e-471a-84c5-af641f2b1726" name="Changes" comment="" />
+      <created>1660783544847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660783544847</updated>
+      <workItem from="1660783546825" duration="2199000" />
+      <workItem from="1660785762547" duration="1971000" />
+      <workItem from="1660831257387" duration="116000" />
+      <workItem from="1660963352103" duration="363000" />
+      <workItem from="1660964296093" duration="161000" />
+      <workItem from="1660965243590" duration="125000" />
+    </task>
+    <task id="LOCAL-00001" summary="Teste classe ponto">
+      <created>1660785901712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660785901712</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Teste classe Reta">
+      <created>1660786722053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660786722053</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Teste classe Quadrado">
+      <created>1660787134073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660787134073</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Teste classe Retangulo">
+      <created>1660787515314</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660787515314</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teste classe ponto" />
+    <MESSAGE value="Teste classe Reta" />
+    <MESSAGE value="Teste classe Quadrado" />
+    <MESSAGE value="Teste classe Retangulo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste classe Retangulo" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
