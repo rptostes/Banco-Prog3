@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9be0b51d-f24e-471a-84c5-af641f2b1726" name="Changes" comment="Teste classe Retangulo" />
+    <list default="true" id="9be0b51d-f24e-471a-84c5-af641f2b1726" name="Changes" comment="Diagrama" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2DVU34D5QLOqM3rHWaZLyrxubDU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -184,7 +185,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660787515314</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finalizado aula 24/08">
+      <created>1661659232968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661659232968</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finalizado aula 24/08">
+      <created>1661659361836</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661659361836</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Diagrama">
+      <created>1661659505120</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661659505120</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +228,9 @@
     <MESSAGE value="Teste classe Reta" />
     <MESSAGE value="Teste classe Quadrado" />
     <MESSAGE value="Teste classe Retangulo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste classe Retangulo" />
+    <MESSAGE value="Finalizado aula 24/08" />
+    <MESSAGE value="Diagrama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diagrama" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
