@@ -29,7 +29,7 @@ public class Historico {
     @Override
     public String toString() {
         return data.format(
-                DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss"))
+                DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm"))
                 + " - Valor: "
                 + this.valor.toString()
                 + " - " + this.tipoLancamento.valor ;
