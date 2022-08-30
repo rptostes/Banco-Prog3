@@ -25,7 +25,7 @@ public class ContaTest {
         try {
             conta.creditar(1000.0);
             conta.debitar(120.0);
-            conta.debitar(3000.0);
+            conta.debitar(30000.0);
         } catch (IllegalArgumentException ex) {
             System.out.println(ex.getMessage());
         }
