@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9be0b51d-f24e-471a-84c5-af641f2b1726" name="Changes" comment="Diagrama alterado" />
+    <list default="true" id="9be0b51d-f24e-471a-84c5-af641f2b1726" name="Changes" comment="Alterado">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/banco.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/banco.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/edu/femass/model/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/edu/femass/model/ClienteTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,17 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Davi/Desktop/ProgIII&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/Davi/Desktop/ProgIII",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -56,7 +69,7 @@
       <recent name="br.edu.femass.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContaTest">
+  <component name="RunManager" selected="JUnit.ClienteTest">
     <configuration name="ContaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.edu.femass.teste.ContaTest" />
       <module name="banco" />
@@ -70,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PontoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="geometria_prog3" />
+    <configuration name="ClienteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.edu.femass.model.*" />
@@ -79,14 +92,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="br.edu.femass.model" />
-      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.PontoTest" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.ClienteTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PontoTest.getlocalizacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="geometria_prog3" />
+    <configuration name="ClienteTest.criarClienteCpfInvalido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.edu.femass.model.*" />
@@ -94,15 +107,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="br.edu.femass.model" />
-      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.PontoTest" />
-      <option name="METHOD_NAME" value="getlocalizacao" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.ClienteTest" />
+      <option name="METHOD_NAME" value="criarClienteCpfInvalido" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="geometria_prog3" />
+    <configuration name="ClienteTest.criarClienteCpfValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.edu.femass.model.*" />
@@ -110,14 +123,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="br.edu.femass.model" />
-      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.QuadTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.ClienteTest" />
+      <option name="METHOD_NAME" value="criarClienteCpfValido" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RetanguloTest.getPerimetro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="geometria_prog3" />
+    <configuration name="ClienteTest.criarContaGerandoNumero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.edu.femass.model.*" />
@@ -125,8 +139,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="br.edu.femass.model" />
-      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.RetanguloTest" />
-      <option name="METHOD_NAME" value="getPerimetro" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.ClienteTest" />
+      <option name="METHOD_NAME" value="criarContaGerandoNumero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ClienteTest" />
+        <item itemvalue="JUnit.ClienteTest.criarContaGerandoNumero" />
         <item itemvalue="Application.ContaTest" />
-        <item itemvalue="JUnit.QuadTest" />
-        <item itemvalue="JUnit.PontoTest.getlocalizacao" />
-        <item itemvalue="JUnit.PontoTest" />
-        <item itemvalue="JUnit.RetanguloTest.getPerimetro" />
+        <item itemvalue="JUnit.ClienteTest.criarClienteCpfInvalido" />
+        <item itemvalue="JUnit.ClienteTest.criarClienteCpfValido" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +170,9 @@
       <workItem from="1660963352103" duration="363000" />
       <workItem from="1660964296093" duration="161000" />
       <workItem from="1660965243590" duration="125000" />
+      <workItem from="1661739267268" duration="165000" />
+      <workItem from="1661826440171" duration="321000" />
+      <workItem from="1661829099555" duration="807000" />
     </task>
     <task id="LOCAL-00001" summary="Teste classe ponto">
       <created>1660785901712</created>
@@ -213,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661659559835</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Alterado">
+      <created>1661659608997</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661659608997</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +262,8 @@
     <MESSAGE value="Finalizado aula 24/08" />
     <MESSAGE value="Diagrama" />
     <MESSAGE value="Diagrama alterado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Diagrama alterado" />
+    <MESSAGE value="Alterado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterado" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
