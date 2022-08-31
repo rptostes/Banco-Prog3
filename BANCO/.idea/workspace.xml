@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9be0b51d-f24e-471a-84c5-af641f2b1726" name="Changes" comment="Testes da classe Cliente finalizados">
+      <change afterPath="$PROJECT_DIR$/.idea/BANCO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/femass/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/femass/dao/DaoCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/femass/teste/ContaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/femass/teste/ContaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/br/edu/femass/model/ContaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/edu/femass/model/ContaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/edu/femass/teste/ContaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/edu/femass/teste/ContaTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +26,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -50,7 +64,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "C:/Users/Davi/Desktop/ProgIII",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +75,20 @@
       <recent name="br.edu.femass.model" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ContaTest.debitarValorContaSemSaldo">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.edu.femass.App" />
+      <module name="BANCO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.femass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.edu.femass.teste.ContaTest" />
       <module name="banco" />
@@ -71,21 +98,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClienteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="banco" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.edu.femass.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.edu.femass.model" />
-      <option name="MAIN_CLASS_NAME" value="br.edu.femass.model.ClienteTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,7 +135,7 @@
       </method>
     </configuration>
     <configuration name="ContaTest.debitarValorContaSemSaldo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="banco" />
+      <module name="BANCO" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.edu.femass.model.*" />
@@ -140,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.ContaTest.debitarValorContaSemSaldo" />
         <item itemvalue="Application.ContaTest" />
         <item itemvalue="JUnit.ContaTest.debitarValorContaComSaldo" />
         <item itemvalue="JUnit.ContaTest.creditarValorConta" />
-        <item itemvalue="JUnit.ClienteTest" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +177,7 @@
       <workItem from="1661739267268" duration="165000" />
       <workItem from="1661826440171" duration="321000" />
       <workItem from="1661829099555" duration="2380000" />
+      <workItem from="1661902846228" duration="3609000" />
     </task>
     <task id="LOCAL-00001" summary="Teste classe ponto">
       <created>1660785901712</created>
