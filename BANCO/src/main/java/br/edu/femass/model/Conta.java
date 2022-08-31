@@ -10,6 +10,9 @@ public class Conta {
     private List<Historico> historicos;
     private static Long proximoNumero = 1L;
 
+    public Conta(){
+
+    }
     public Conta(Double especial) {
         this.numero = proximoNumero;
         proximoNumero++;

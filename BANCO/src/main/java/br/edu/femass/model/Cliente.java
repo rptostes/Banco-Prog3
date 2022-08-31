@@ -32,6 +32,10 @@ public class Cliente {
         this.contas = new ArrayList<Conta>();
     }
 
+    public Cliente(){
+
+    }
+
     public void setEndereco(String endereco) {
         this.endereco = endereco;
     }

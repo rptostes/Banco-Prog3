@@ -13,6 +13,9 @@ public class Historico {
         this.valor = valor;
         this.tipoLancamento = tipoLancamento;
     }
+    public Historico(){
+
+    }
 
     public Double getValor() {
         return valor;
